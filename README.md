@@ -50,3 +50,7 @@ step6: train.py
 step7: test.py
 
 step8: util/image2video.py
+
+result: https://zhuanlan.zhihu.com/p/47591419
+
+https://zhuanlan.zhihu.com/p/55134122
